@@ -1,2 +1,4 @@
 # Repositorio1
-primer repositorio de practica 
+Este es mi primer repositorio de practica 
+Neissa Cindi Pacheco González 
+3B Programación T.M.
